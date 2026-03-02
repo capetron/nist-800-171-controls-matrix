@@ -374,6 +374,29 @@ For organizations needing expert guidance on NIST compliance, [Petronella Techno
 
 ---
 
+
+---
+
+## ⚠️ The Gap Between Checking Boxes and Passing an Assessment
+
+This matrix maps requirements, but **implementation is where organizations struggle**. The most common issues we find during gap assessments:
+
+- **Partial implementation scored as complete** — "We have antivirus" doesn't satisfy SI-3 if you can't demonstrate centralized management, signature updates, and response procedures
+- **Inherited controls not validated** — Cloud provider shared responsibility models are frequently misunderstood
+- **SPRS score inflation** — Overestimating your score puts your contracts at risk when DIBCAC validates
+- **Missing POA&M milestones** — Accepted POA&Ms need specific remediation dates and resource allocation, not "TBD"
+
+> **Your SPRS score is submitted to the DoD under penalty of the False Claims Act.** An inaccurate self-assessment isn't just a compliance gap — it's a legal liability.
+
+---
+
+## 📞 Get Your NIST 800-171 Score Right
+
+**→ [Schedule a Free SPRS Score Review](https://petronellatech.com/contact-us/schedule-appointment/)** | Call [(919) 422-8500](tel:+19194228500)
+
+[Petronella Technology Group](https://petronellatech.com/compliance/nist-compliance/) helps defense contractors accurately assess, score, and improve their NIST 800-171 implementation. We've helped organizations go from SPRS scores in the negatives to assessment-ready.
+
+
 ## About
 
 This NIST 800-171 controls matrix is maintained by **[Petronella Technology Group](https://petronellatech.com)**, a cybersecurity and IT compliance firm headquartered in Raleigh, North Carolina. Founded in 2002, Petronella Technology Group has over 23 years of experience helping organizations implement NIST frameworks and protect Controlled Unclassified Information.
